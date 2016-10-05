@@ -2,6 +2,7 @@
 
 Exercise 1: Create a New Project
 
+https://learn.bcit.ca/d2l/le/content/335712/viewContent/2075437/View
 Create a new project
 Observe that for MVC you can add folders and co-references (e.g., Web Forms)
 Observe the controllers already created and their actions:
@@ -23,6 +24,7 @@ ClientSecret = "000000000000000"
 });
 }
 Run the application: observe login with Google account
+
 Exercise 1: Add a Controller
 
 Start with an MVC application
